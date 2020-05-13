@@ -1,0 +1,7 @@
+.idea/
+_ReSharper.Caches/
+packages/
+bin/
+obj/
+*.user
+*.DotSettings
